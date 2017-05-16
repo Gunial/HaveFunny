@@ -1,0 +1,18 @@
+//
+//  FunnyPrefixHeader.pch
+//  Funny
+//
+//  Created by Mr.Gu on 2017/4/19.
+//  Copyright © 2017年 Mr.Gu. All rights reserved.
+//
+
+#ifndef FunnyPrefixHeader_pch
+#define FunnyPrefixHeader_pch
+
+#import "FunnyDefine.h"
+#import "GGConst.h"
+#import "CategoryConfig.h"
+#import "GGNetworkManager.h"
+#import <SVProgressHUD.h>
+
+#endif /* FunnyPrefixHeader_pch */
